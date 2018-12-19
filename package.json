@@ -1,0 +1,28 @@
+{
+  "name": "taskpaper-react",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": ".",
+  "dependencies": {
+    "alt": "^0.18.5",
+    "alt-container": "^1.1.1",
+    "axios": "^0.18.0",
+    "prop-types": "^15.6.2",
+    "react": "^16.4.0",
+    "react-animated-css": "^1.0.4",
+    "react-bootstrap": "^0.32.1",
+    "react-dom": "^16.4.0",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.4",
+    "react-spinners": "^0.3.3",
+    "react-toastify": "^4.1.0",
+    "reactstrap": "^6.3.1",
+    "wow.js": "^1.2.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
